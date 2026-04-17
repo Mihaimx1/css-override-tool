@@ -2,6 +2,8 @@
 
 This browser extension, named "Data Import Evidence Helper," is designed to assist Quality Assurance (QA) professionals and test engineers in capturing evidence during testing. It achieves this by dynamically expanding grids and applying local CSS overrides to prevent content overflow on web pages, ensuring that all necessary information is visible and can be accurately captured for documentation.
 
+**Note:** This tool is developed for use within specific internal, non-public testing environments. Its purpose on GitHub is to showcase the technical approach and problem-solving skills in developing specialized QA tools, rather than to provide a publicly runnable utility.
+
 ## Features
 
 - **Grid Expansion:** Automatically expands data grids on web pages to reveal all content.
